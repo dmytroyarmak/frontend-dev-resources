@@ -67,7 +67,15 @@ List of useful resources for front end developers
 
 ### [Reject.JS 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHtusNoObfs0hKDrRjBkzHN) (September 24, 2015)
 
+### [SmartWeb 2015](https://www.youtube.com/playlist?list=PLbUMlIAqtRWMKoZBo1jjBGyzmgiqER8FC) (September 22, 2015)
+
+### [FrontTalks 2015](https://www.youtube.com/playlist?list=PLViEVGYYiL-VM7ShdlzPbh3HygKXUn9nY) [EN + RU] (September 19, 2015)
+
 ### [Generate London Conference 2015](https://www.youtube.com/playlist?list=PLb_ziuDPiUzZ4v9y-0z-vw_SLDF3HHQRK) (September 17 - 18, 2015)
+
+### [Nordic.js 2015](https://www.youtube.com/playlist?list=PLGP3VO5jDf8y5yRtyQ4SU2JW6m9NLoNle) (September 10 - 11, 2015)
+
+### [NodeConfEU 2015](https://www.youtube.com/playlist?list=PLhiahOQZ6uaVzf3156bxy1nYA7HjuNBom) (September 6 - 9, 2015)
 
 ### [CSS Conf 2015](https://www.youtube.com/playlist?list=PLpuOe2zdGqLkzbWbb86xchgnhsx7rYK3t) (June 18 - 19, 2015)
 
