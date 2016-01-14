@@ -49,6 +49,10 @@ List of useful resources for front end developers
 
 ### [CSSConf.Asia 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHuiIn2HnJ965qO2k3aADqz) (November 18, 2015)
 
+### [Nodevember 2015](https://www.youtube.com/playlist?list=PLSZHCj84JSDMInvIg8mxNRmemoMwrySFj) (November 14 - 15, 2015)
+
+### [Reactive 2015](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg/videos) (November 2 - 4, 2015)
+
 ### [JSConf EU 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) (September 25 & 27, 2015)
 
 ### [CSSConf EU 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9) (September 26, 2015)
