@@ -56,3 +56,5 @@ List of useful resources for front end developers
 ### [Reject.JS 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHtusNoObfs0hKDrRjBkzHN) (September 24, 2015)
 
 ### [JSConf US 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshEkVjFZlLm1krvx0mPYPOoq) (May 27 - 29, 2015)
+
+### [JSConf Budapest 2015](https://www.youtube.com/playlist?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm) (May 14 - 15, 2015)
