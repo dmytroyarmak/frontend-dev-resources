@@ -45,6 +45,14 @@ List of useful resources for front end developers
   [(view the slides)](http://attasi.com/transforms/)
 > The transform is one of the most powerful CSS properties, but also one of the most abused. Tom helps us wield its power to create simple, fast and engaging work.
 
-### [JSConf.Asia 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshGpDJn60AwbJ6xegSHe_cDh) (November 19-20, 2015)
+### [JSConf.Asia 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshGpDJn60AwbJ6xegSHe_cDh) (November 19 - 20, 2015)
 
 ### [CSSConf.Asia 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHuiIn2HnJ965qO2k3aADqz) (November 18, 2015)
+
+### [JSConf EU 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) (September 25 & 27, 2015)
+
+### [CSSConf EU 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9) (September 26, 2015)
+
+### [Reject.JS 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHtusNoObfs0hKDrRjBkzHN) (September 24, 2015)
+
+### [JSConf US 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshEkVjFZlLm1krvx0mPYPOoq) (May 27 - 29, 2015)
