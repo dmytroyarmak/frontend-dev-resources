@@ -68,4 +68,4 @@ List of useful resources for front end developers
 - [JavaScript Frameworks Day 2015](https://www.youtube.com/playlist?list=PLPcgQFk9n9y8xLWlk6lM7OkFcQgClxeHu) 🇺🇦 (April 26, 2015)
 - [Frontend Dev Conf 2015](https://www.youtube.com/playlist?list=PL4QZF2_KoV8-6Gj198s_VcIM-Nj9c565w) 🇧🇾 (April 18, 2015)
 - [Rolling Scopes Conference 2015](https://www.youtube.com/playlist?list=PLe--kalBDwjgrOqRSbJrJd-o7M3-KlOff) 🇧🇾 (January 31 - February 1, 2015)
-- Angular Bootcamp 2014, [Day 1](https://www.youtube.com/playlist?list=PLWjcp3gksImOTvG_EhxLF3Yg-jNuWKHl) - [Day 2](https://www.youtube.com/playlist?list=PLWjcp3gksImOeJSqD4Q17RyhLvCmKg9BL)  🇹🇷 (November 22 - 23, 2014)
+- Angular Bootcamp 2014, [Day 1](https://www.youtube.com/playlist?list=PLWjcp3gksImOTvG_EhxLF3Yg-jNuWKHl_) - [Day 2](https://www.youtube.com/playlist?list=PLWjcp3gksImOeJSqD4Q17RyhLvCmKg9BL)  🇹🇷 (November 22 - 23, 2014)
