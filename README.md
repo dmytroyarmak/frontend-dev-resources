@@ -1,5 +1,5 @@
 # frontend-dev-resources
-List of useful resources for front end developers
+List of useful resources for frontend developers
 
 ## Conferences
 
@@ -71,3 +71,7 @@ List of useful resources for front end developers
 - [Frontend Dev Conf 2015](https://www.youtube.com/playlist?list=PL4QZF2_KoV8-6Gj198s_VcIM-Nj9c565w) 🇧🇾 (April 18, 2015)
 - [Rolling Scopes Conference 2015](https://www.youtube.com/playlist?list=PLe--kalBDwjgrOqRSbJrJd-o7M3-KlOff) 🇧🇾 (January 31 - February 1, 2015)
 - Angular Bootcamp 2014, [Day 1](https://www.youtube.com/playlist?list=PLWjcp3gksImOTvG_EhxLF3Yg-jNuWKHl_) - [Day 2](https://www.youtube.com/playlist?list=PLWjcp3gksImOeJSqD4Q17RyhLvCmKg9BL)  🇹🇷 (November 22 - 23, 2014)
+
+## Contribute
+If you know some great frontend conferences that are not in this list, you are welcome to send Pull Requests! 
+You cad do it directly through Github by clicking the "edit" button on this file.
