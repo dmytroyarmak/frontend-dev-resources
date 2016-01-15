@@ -43,6 +43,7 @@ List of useful resources for front end developers
 - [MediterráneaJS 2015](https://vimeo.com/channels/977667) (June 22 - 23, 2015)
 - [CSS Conf 2015](https://www.youtube.com/playlist?list=PLpuOe2zdGqLkzbWbb86xchgnhsx7rYK3t) (June 18 - 19, 2015)
 - [Wicked Good Ember 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaG1xOBeXbz0dlh7LZkFdyH) (June 16, 2015)
+- [You Gotta Love Frontend 2015](https://www.youtube.com/playlist?list=PLII-CO3Ff0qbx_zJYVsmg0pIgf32zyB5p) (June 8 - 9, 2015)
 - [JSConf US 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshEkVjFZlLm1krvx0mPYPOoq) (May 27 - 29, 2015)
 - [UpFrontConf](http://www.fivesimplesteps.com/collections/upfront) (May 19, 2015)
 - [JSConf Budapest 2015](https://www.youtube.com/playlist?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm) (May 14 - 15, 2015)
