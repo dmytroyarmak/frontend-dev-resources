@@ -33,6 +33,7 @@ List of useful resources for front end developers
 - [Frontend Conference Zurich 2015](https://www.youtube.com/playlist?list=PL9r1NcXXuHk-G2CrlJ7SZJVwJ5crlP_Sb) (August 27 - 28, 2015)
 - [React Rally 2015](https://www.youtube.com/playlist?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ) (August 24 - 25, 2015)
 - [OdessaJS 2015](https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg/videos) 🇺🇦 (August 21, 2015)
+- [re:develop 2015](https://vimeo.com/channels/982183) (August 14, 2015)
 - [Midwest JS 2015](https://www.youtube.com/channel/UCg09l6pJcp2DdCcsSrJmQng) (August 12 - 14, 2015)
 - [Forward 3 Web Summit](https://www.youtube.com/playlist?list=PLndbWGuLoHeb1jPbnm2pCuOlPqXRukgn0) (July 27 - 31, 2015)
 - [TXJS 2015](https://www.youtube.com/playlist?list=PLMWftTFfsA8Om-GqKm46bw8GVxyKXRz0X) (July 24, 2015)
