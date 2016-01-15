@@ -41,6 +41,7 @@ List of useful resources for front end developers
 - [JSChannel 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybsEAqkwDahsj05YyIcXXW4) (July 17 - 18, 2015)
 - [CascadiaFest 2015](https://www.youtube.com/playlist?list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7) (July 8 - 10, 2015)
 - [ReactEurope 2015](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos) (July 2 - 3, 2015)
+- [Angular U 2015](https://www.youtube.com/playlist?list=PLQrl6x_e_AZG0RdzIYVns4eGFxUEF61Lw) (June 22 - 23, 2015)
 - [jQuerySF 2015](https://www.youtube.com/playlist?list=PL0bvP7Hupz0SCXeklgEj0wlzVc7bAuZlw) (June 22 - 23, 2015)
 - [MediterráneaJS 2015](https://vimeo.com/channels/977667) (June 22 - 23, 2015)
 - [CSS Conf 2015](https://www.youtube.com/playlist?list=PLpuOe2zdGqLkzbWbb86xchgnhsx7rYK3t) (June 18 - 19, 2015)
