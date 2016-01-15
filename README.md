@@ -42,6 +42,7 @@ List of useful resources for front end developers
 - [JSConf US 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshEkVjFZlLm1krvx0mPYPOoq) (May 27 - 29, 2015)
 - [JSConf Budapest 2015](https://www.youtube.com/playlist?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm) (May 14 - 15, 2015)
 - [ScotlandJS 2015](https://www.youtube.com/channel/UCpW0Vh7QKPA7n0oJfrizlsw/videos) (May 7 - 8, 2015)
+- [ng-vegas 2015](https://www.youtube.com/playlist?list=PLm8AiPM1Wf5KhO12ggjJjQmFzqirlNUvY) (May 7 - 8, 2015)
 - [Front-Trends 2015](https://www.youtube.com/playlist?list=PLBevk0eXLOGfkVhE7PArRg6nKHqmMKgtB) (May 6 - 8, 2015)
 - [JSConfUY 2015](https://www.youtube.com/playlist?list=PLleHIBVx1SeQxhubNMUoFsfL1Z8XbcuGB) (April 24 - 25, 2015)
 - [Frontend Dev Conf 2015](https://www.youtube.com/playlist?list=PL4QZF2_KoV8-6Gj198s_VcIM-Nj9c565w) :ru: (April 18, 2015)
