@@ -27,6 +27,7 @@ List of useful resources for front end developers
 - [NodeConfEU 2015](https://www.youtube.com/playlist?list=PLhiahOQZ6uaVzf3156bxy1nYA7HjuNBom) (September 6 - 9, 2015)
 - [NightlyBuild 2015](https://www.youtube.com/playlist?list=PLJDgiixq_VdlQjGN4RYXBAG6Q2dA2h0xW) (September 4, 2015)
 - [ColdFront Conference 2015](https://www.youtube.com/playlist?list=PLl0kzWeYVmgsXGi5727YCmXU2CfTmWxsS) (September 3, 2015)
+- [Frontend Union Conf 2015](https://www.youtube.com/playlist?list=PLYWZNd96EXDaR2QNAggAC0FwiHcfWhCBD) :ru: (August 29, 2015)
 - [Frontend Conference Zurich 2015](https://www.youtube.com/playlist?list=PL9r1NcXXuHk-G2CrlJ7SZJVwJ5crlP_Sb) (August 27 - 28, 2015)
 - [React Rally 2015](https://www.youtube.com/playlist?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ) (August 24 - 25, 2015)
 - [Midwest JS 2015](https://www.youtube.com/channel/UCg09l6pJcp2DdCcsSrJmQng) (August 12 - 14, 2015)
