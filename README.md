@@ -1,6 +1,18 @@
 # frontend-dev-resources
 List of useful resources for frontend developers
 
+## Podcasts
+
+- [JavaScript Jabber](https://devchat.tv/js-jabber/) ([RSS](http://feeds.feedwrench.com/JavaScriptJabber.rss),  [iTunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2))
+- [Adventures in Angular](https://devchat.tv/adventures-in-angular) ([RSS](http://feeds.feedwrench.com/AdventuresInAngular.rss), [iTunes](https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052?mt=2))
+- [Toolsday](http://toolsday.io/) ([RSS](http://toolsday.io/feeds/rss.xml), [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
+- [JavaScript Air](http://javascriptair.com/) ([RSS](http://audio.javascriptair.com/feed/), [iTunes](https://itunes.apple.com/us/podcast/javascript-air/id1066446588), [YouTube](https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q))
+- [Angular Air](https://angularair.com/) ([RSS](http://angularair.podbean.com/feed/), [iTunes](https://itunes.apple.com/us/podcast/angular-air/id940806858?mt=2), [YouTube](https://www.youtube.com/c/AngularAirPodcast))
+- [Eat Sleep Code](http://developer.telerik.com/community/eat-sleep-code/) ([RSS](http://feeds.feedburner.com/esc-podcast), [iTunes](https://itunes.apple.com/us/podcast/eat-sleep-code-podcast/id1015556393?mt=2))
+- [5 Minutes of JavaScript](https://fivejs.codeschool.com/) ([RSS](https://fivejs.codeschool.com/feed.rss), [iTunes](https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2))
+- [The Web Platform](http://thewebplatform.libsyn.com/) ([RSS](http://thewebplatform.libsyn.com/rss), [iTunes](https://itunes.apple.com/us/podcast/the-web-platform-podcast/id899384794?mt=2))
+- [Front-End Developer Cast](http://www.funnyant.com/category/podcast/) ([RSS](http://www.funnyant.com/feed/podcast/), [iTunes](https://itunes.apple.com/us/podcast/front-end-developer-cast/id815137887?mt=2))
+
 ## Conferences
 
 - [dotJS 2015](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG70G62mxQR0OC4GkUcNLRnC) (December 7, 2015)
@@ -71,16 +83,6 @@ List of useful resources for frontend developers
 - [Frontend Dev Conf 2015](https://www.youtube.com/playlist?list=PL4QZF2_KoV8-6Gj198s_VcIM-Nj9c565w) 🇧🇾 (April 18, 2015)
 - [Rolling Scopes Conference 2015](https://www.youtube.com/playlist?list=PLe--kalBDwjgrOqRSbJrJd-o7M3-KlOff) 🇧🇾 (January 31 - February 1, 2015)
 - Angular Bootcamp 2014, [Day 1](https://www.youtube.com/playlist?list=PLWjcp3gksImOTvG_EhxLF3Yg-jNuWKHl_) - [Day 2](https://www.youtube.com/playlist?list=PLWjcp3gksImOeJSqD4Q17RyhLvCmKg9BL)  🇹🇷 (November 22 - 23, 2014)
-
-## Podcasts
-
-- JavaScript Jabber ([Website](https://devchat.tv/js-jabber/), [RSS](http://feeds.feedwrench.com/JavaScriptJabber.rss),  [iTunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2))
-- Adventures in Angular ([Website](https://devchat.tv/adventures-in-angular), [RSS](http://feeds.feedwrench.com/AdventuresInAngular.rss), [iTunes](https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052?mt=2))
-- Toolsday ([Website](http://toolsday.io/), [RSS](http://toolsday.io/feeds/rss.xml), [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
-- JavaScript Air ([Website](http://javascriptair.com/), [RSS](http://audio.javascriptair.com/feed/), [iTunes](https://itunes.apple.com/us/podcast/javascript-air/id1066446588), [YouTube](https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q))
-- Angular Air ([Website](https://angularair.com/), [RSS](http://angularair.podbean.com/feed/), [iTunes](https://itunes.apple.com/us/podcast/angular-air/id940806858?mt=2), [YouTube](https://www.youtube.com/c/AngularAirPodcast))
-- Eat Sleep Code ([Website](http://developer.telerik.com/community/eat-sleep-code/), [RSS](http://feeds.feedburner.com/esc-podcast), [iTunes](https://itunes.apple.com/us/podcast/eat-sleep-code-podcast/id1015556393?mt=2))
-- 5 Minutes of JavaScript ([Website](https://fivejs.codeschool.com/), [RSS](https://fivejs.codeschool.com/feed.rss), [iTunes](https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2))
 
 ## Contribute
 If you know some great frontend conferences that are not in this list, you are welcome to send Pull Requests! 
