@@ -72,6 +72,14 @@ List of useful resources for frontend developers
 - [Rolling Scopes Conference 2015](https://www.youtube.com/playlist?list=PLe--kalBDwjgrOqRSbJrJd-o7M3-KlOff) 🇧🇾 (January 31 - February 1, 2015)
 - Angular Bootcamp 2014, [Day 1](https://www.youtube.com/playlist?list=PLWjcp3gksImOTvG_EhxLF3Yg-jNuWKHl_) - [Day 2](https://www.youtube.com/playlist?list=PLWjcp3gksImOeJSqD4Q17RyhLvCmKg9BL)  🇹🇷 (November 22 - 23, 2014)
 
+## Podcasts
+
+- JavaScript Jabber ([Website](https://devchat.tv/js-jabber/), [RSS](http://feeds.feedwrench.com/JavaScriptJabber.rss),  [iTunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2))
+- Adventures in Angular ([Website](https://devchat.tv/adventures-in-angular), [RSS](http://feeds.feedwrench.com/AdventuresInAngular.rss), [iTunes](https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052?mt=2))
+- Toolsday ([Website](http://toolsday.io/), [RSS](http://toolsday.io/feeds/rss.xml), [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
+- JavaScript Air ([Website](http://javascriptair.com/), [RSS](http://audio.javascriptair.com/feed/), [iTunes](https://itunes.apple.com/us/podcast/javascript-air/id1066446588), [YouTube](https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q))
+- Angular Air ([Website](https://angularair.com/), [RSS](http://angularair.podbean.com/feed/), [iTunes](https://itunes.apple.com/us/podcast/angular-air/id940806858?mt=2), [YouTube](https://www.youtube.com/c/AngularAirPodcast))
+
 ## Contribute
 If you know some great frontend conferences that are not in this list, you are welcome to send Pull Requests! 
 You cad do it directly through Github by clicking the "edit" button on this file.
