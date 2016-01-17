@@ -79,6 +79,8 @@ List of useful resources for frontend developers
 - Toolsday ([Website](http://toolsday.io/), [RSS](http://toolsday.io/feeds/rss.xml), [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
 - JavaScript Air ([Website](http://javascriptair.com/), [RSS](http://audio.javascriptair.com/feed/), [iTunes](https://itunes.apple.com/us/podcast/javascript-air/id1066446588), [YouTube](https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q))
 - Angular Air ([Website](https://angularair.com/), [RSS](http://angularair.podbean.com/feed/), [iTunes](https://itunes.apple.com/us/podcast/angular-air/id940806858?mt=2), [YouTube](https://www.youtube.com/c/AngularAirPodcast))
+- Eat Sleep Code ([Website](http://developer.telerik.com/community/eat-sleep-code/), [RSS](http://feeds.feedburner.com/esc-podcast), [iTunes](https://itunes.apple.com/us/podcast/eat-sleep-code-podcast/id1015556393?mt=2))
+- 5 Minutes of JavaScript ([Website](https://fivejs.codeschool.com/), [RSS](https://fivejs.codeschool.com/feed.rss), [iTunes](https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2))
 
 ## Contribute
 If you know some great frontend conferences that are not in this list, you are welcome to send Pull Requests! 
