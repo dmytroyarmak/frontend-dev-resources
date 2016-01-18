@@ -16,6 +16,7 @@ List of useful resources for frontend developers
 - [Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/) ([RSS](http://responsivewebdesign.com/podcast/feed.xml), [iTunes](https://itunes.apple.com/us/podcast/a-responsive-design-podcast/id910013523?mt=2))
 - [ShopTalk Show](http://shoptalkshow.com/) ([RSS](http://shoptalkshow.com/feed/podcast/), [iTunes](https://itunes.apple.com/podcast/id493890455))
 - [The Path to Performance](https://pathtoperf.com/) ([RSS](http://simplecast.fm/podcasts/1103/rss), [iTunes](https://itunes.apple.com/us/podcast/the-path-to-performance/id983003732))
+- [Full Stack Radio](http://www.fullstackradio.com/) ([RSS](http://simplecast.fm/podcasts/279/rss), [iTunes](https://itunes.apple.com/us/podcast/full-stack-radio/id931714873?mt=2))
 
 ## Web Shows
 
