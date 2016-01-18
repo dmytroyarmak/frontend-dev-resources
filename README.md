@@ -17,6 +17,14 @@ List of useful resources for frontend developers
 - [ShopTalk Show](http://shoptalkshow.com/) ([RSS](http://shoptalkshow.com/feed/podcast/), [iTunes](https://itunes.apple.com/podcast/id493890455))
 - [The Path to Performance](https://pathtoperf.com/) ([RSS](http://simplecast.fm/podcasts/1103/rss), [iTunes](https://itunes.apple.com/us/podcast/the-path-to-performance/id983003732))
 
+## Web Shows
+
+- [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
+- [HTTP 203](https://www.youtube.com/watch?v=CSjL1lrNAx4&list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9)
+- [Supercharged](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
+- [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
+- [Polycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo)
+
 ## Conferences
 
 - [dotJS 2015](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG70G62mxQR0OC4GkUcNLRnC) (December 7, 2015)
