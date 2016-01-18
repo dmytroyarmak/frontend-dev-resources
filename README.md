@@ -12,6 +12,7 @@ List of useful resources for frontend developers
 - [5 Minutes of JavaScript](https://fivejs.codeschool.com/) ([RSS](https://fivejs.codeschool.com/feed.rss), [iTunes](https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2))
 - [The Web Platform](http://thewebplatform.libsyn.com/) ([RSS](http://thewebplatform.libsyn.com/rss), [iTunes](https://itunes.apple.com/us/podcast/the-web-platform-podcast/id899384794?mt=2))
 - [Front-End Developer Cast](http://www.funnyant.com/category/podcast/) ([RSS](http://www.funnyant.com/feed/podcast/), [iTunes](https://itunes.apple.com/us/podcast/front-end-developer-cast/id815137887?mt=2))
+- [Front-end Five](https://frontendfive.codeschool.com/) ([RSS](https://frontendfive.codeschool.com/feed.rss), [iTunes](https://itunes.apple.com/ua/podcast/front-end-five/id1003995196?mt=2))
 
 ## Conferences
 
