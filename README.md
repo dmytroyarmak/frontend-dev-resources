@@ -110,6 +110,7 @@ List of useful resources for frontend developers
 - [You Don't Know JS: ES6 & Beyond by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [Eloquent JavaScript by Marijn Haverbeke](http://eloquentjavascript.net/)
 - [Exploring ES6 by Dr. Axel Rauschmayer](http://exploringjs.com/)
+- [Setting up ES6 by Dr. Axel Rauschmayer](https://leanpub.com/setting-up-es6/read)
 - [Speaking JavaScript by Dr. Axel Rauschmayer](http://speakingjs.com/)
 - [Mostly Adequate Guide to Funcitonal Programming by Brian Lonsdorf](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [JavaScript Allongé, the "Six" Edition by Reginald Braithwaite](https://leanpub.com/javascriptallongesix/read)
