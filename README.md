@@ -19,6 +19,7 @@ List of useful resources for frontend developers
 - [Full Stack Radio](http://www.fullstackradio.com/) ([RSS](http://simplecast.fm/podcasts/279/rss), [iTunes](https://itunes.apple.com/us/podcast/full-stack-radio/id931714873?mt=2))
 - [The Web Ahead](http://thewebahead.net/) ([RSS](http://feeds.5by5.tv/webahead), [iTunes](https://itunes.apple.com/podcast/the-web-ahead/id464936442?mt=2))
 - [The Big Web Show](http://5by5.tv/bigwebshow) ([RSS](http://feeds.5by5.tv/bigwebshow), [iTunes](https://itunes.apple.com/us/podcast/the-big-web-show/id370445683?mt=2))
+- [Non Breaking Space Show](http://goodstuff.fm/nbsp) ([RSS](http://feeds.goodstuff.fm/nbsp), [iTunes](https://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981))
 
 ## Web Shows
 
