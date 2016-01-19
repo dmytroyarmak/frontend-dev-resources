@@ -115,5 +115,5 @@ List of useful resources for frontend developers
 - [JavaScript Allongé, the "Six" Edition by Reginald Braithwaite](https://leanpub.com/javascriptallongesix/read)
 
 ## Contribute
-If you know some great frontend conferences that are not in this list, you are welcome to send Pull Requests! 
+If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests! 
 You cad do it directly through Github by clicking the "edit" button on this file.
