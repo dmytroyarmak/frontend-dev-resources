@@ -99,6 +99,21 @@ List of useful resources for frontend developers
 - [Rolling Scopes Conference 2015](https://www.youtube.com/playlist?list=PLe--kalBDwjgrOqRSbJrJd-o7M3-KlOff) 🇧🇾 (January 31 - February 1, 2015)
 - Angular Bootcamp 2014, [Day 1](https://www.youtube.com/playlist?list=PLWjcp3gksImOTvG_EhxLF3Yg-jNuWKHl_) - [Day 2](https://www.youtube.com/playlist?list=PLWjcp3gksImOeJSqD4Q17RyhLvCmKg9BL)  🇹🇷 (November 22 - 23, 2014)
 
+## Free Online Books
+
+- [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [You Don't Know JS: Up & Going by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+- [You Don't Know JS: Scope & Closures by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+- [You Don't Know JS: this & Object Prototypes by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+- [You Don't Know JS: Types & Grammar by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+- [You Don't Know JS: Async & Performance by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+- [You Don't Know JS: ES6 & Beyond by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+- [Eloquent JavaScript by Marijn Haverbeke](http://eloquentjavascript.net/)
+- [Exploring ES6 by Dr. Axel Rauschmayer](http://exploringjs.com/)
+- [Speaking JavaScript by Dr. Axel Rauschmayer](http://speakingjs.com/)
+- [Mostly Adequate Guide to Funcitonal Programming by Brian Lonsdorf](https://drboolean.gitbooks.io/mostly-adequate-guide/)
+- [JavaScript Allongé, the "Six" Edition by Reginald Braithwaite](https://leanpub.com/javascriptallongesix/read)
+
 ## Contribute
 If you know some great frontend conferences that are not in this list, you are welcome to send Pull Requests! 
 You cad do it directly through Github by clicking the "edit" button on this file.
