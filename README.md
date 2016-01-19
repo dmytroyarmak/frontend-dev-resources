@@ -20,6 +20,11 @@ List of useful resources for frontend developers
 - [The Web Ahead](http://thewebahead.net/) ([RSS](http://feeds.5by5.tv/webahead), [iTunes](https://itunes.apple.com/podcast/the-web-ahead/id464936442?mt=2))
 - [The Big Web Show](http://5by5.tv/bigwebshow) ([RSS](http://feeds.5by5.tv/bigwebshow), [iTunes](https://itunes.apple.com/us/podcast/the-big-web-show/id370445683?mt=2))
 - [Non Breaking Space Show](http://goodstuff.fm/nbsp) ([RSS](http://feeds.goodstuff.fm/nbsp), [iTunes](https://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981))
+- [Hanselminutes](http://hanselminutes.com/) ([RSS](http://feeds.podtrac.com/9dPm65vdpLL1), [iTunes](https://itunes.apple.com/us/podcast/hanselminutes/id117488860))
+
+## Local Podcasts
+
+- [RadioJS](https://radiojs.ru/) :ru: ([RSS](https://radiojs.ru/feed/podcast/), [iTunes](https://itunes.apple.com/ru/podcast/radio-js/id904938655?l=en))
 
 ## Web Shows
 
