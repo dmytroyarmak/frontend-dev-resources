@@ -21,6 +21,9 @@ List of useful resources for frontend developers
 - [The Big Web Show](http://5by5.tv/bigwebshow) ([RSS](http://feeds.5by5.tv/bigwebshow), [iTunes](https://itunes.apple.com/us/podcast/the-big-web-show/id370445683?mt=2))
 - [Non Breaking Space Show](http://goodstuff.fm/nbsp) ([RSS](http://feeds.goodstuff.fm/nbsp), [iTunes](https://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981))
 - [Hanselminutes](http://hanselminutes.com/) ([RSS](http://feeds.podtrac.com/9dPm65vdpLL1), [iTunes](https://itunes.apple.com/us/podcast/hanselminutes/id117488860))
+- [CTRL+CLICK CAST](http://ctrlclickcast.com/) ([RSS](http://feeds.feedburner.com/ctrlclickcast), [iTunes](https://itunes.apple.com/us/podcast/ctrl+click-cast/id446900959))
+- [Data Stories](http://datastori.es/) ([RSS](http://datastori.es/feed/), [iTunes](https://itunes.apple.com/us/podcast/data-stories/id502854960?mt=2))
+- [The Boagworld Web Show](https://boagworld.com/seasons/) ([RSS](http://feeds.feedburner.com/boagworldpodcast/), [iTunes](https://itunes.apple.com/gb/podcast/the-boagworld-show/id411449225))
 
 ## Local Podcasts
 
