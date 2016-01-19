@@ -34,6 +34,7 @@ List of useful resources for frontend developers
 ## Web Shows
 
 - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
+- [The Treehouse Show](https://teamtreehouse.com/library/the-treehouse-show)
 - [HTTP 203](https://www.youtube.com/watch?v=CSjL1lrNAx4&list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9)
 - [Supercharged](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
 - [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
