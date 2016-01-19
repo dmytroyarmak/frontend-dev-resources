@@ -18,6 +18,7 @@ List of useful resources for frontend developers
 - [The Path to Performance](https://pathtoperf.com/) ([RSS](http://simplecast.fm/podcasts/1103/rss), [iTunes](https://itunes.apple.com/us/podcast/the-path-to-performance/id983003732))
 - [Full Stack Radio](http://www.fullstackradio.com/) ([RSS](http://simplecast.fm/podcasts/279/rss), [iTunes](https://itunes.apple.com/us/podcast/full-stack-radio/id931714873?mt=2))
 - [The Web Ahead](http://thewebahead.net/) ([RSS](http://feeds.5by5.tv/webahead), [iTunes](https://itunes.apple.com/podcast/the-web-ahead/id464936442?mt=2))
+- [The Big Web Show](http://5by5.tv/bigwebshow) ([RSS](http://feeds.5by5.tv/bigwebshow), [iTunes](https://itunes.apple.com/us/podcast/the-big-web-show/id370445683?mt=2))
 
 ## Web Shows
 
