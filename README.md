@@ -111,6 +111,10 @@ List of useful resources for frontend developers
 - [Rolling Scopes Conference 2015](https://www.youtube.com/playlist?list=PLe--kalBDwjgrOqRSbJrJd-o7M3-KlOff) 🇧🇾 (January 31 - February 1, 2015)
 - Angular Bootcamp 2014, [Day 1](https://www.youtube.com/playlist?list=PLWjcp3gksImOTvG_EhxLF3Yg-jNuWKHl_) - [Day 2](https://www.youtube.com/playlist?list=PLWjcp3gksImOeJSqD4Q17RyhLvCmKg9BL)  🇹🇷 (November 22 - 23, 2014)
 
+## Upcoming conferences
+
+- [A curated list of upcoming conferences](https://github.com/svenanders/upcoming-conferences)
+
 ## Free Online Books
 
 - [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -124,9 +128,9 @@ List of useful resources for frontend developers
 - [Exploring ES6 by Dr. Axel Rauschmayer](http://exploringjs.com/)
 - [Setting up ES6 by Dr. Axel Rauschmayer](https://leanpub.com/setting-up-es6/read)
 - [Speaking JavaScript by Dr. Axel Rauschmayer](http://speakingjs.com/)
-- [Mostly Adequate Guide to Funcitonal Programming by Brian Lonsdorf](https://drboolean.gitbooks.io/mostly-adequate-guide/)
+- [Mostly Adequate Guide to Functional Programming by Brian Lonsdorf](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [JavaScript Allongé, the "Six" Edition by Reginald Braithwaite](https://leanpub.com/javascriptallongesix/read)
 
 ## Contribute
 If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests! 
-You cad do it directly through Github by clicking the "edit" button on this file.
+You can do it directly through Github by clicking the "edit" button on this file.
