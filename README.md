@@ -134,6 +134,12 @@ List of useful resources for frontend developers
 - [Mostly Adequate Guide to Functional Programming by Brian Lonsdorf](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [JavaScript Allongé, the "Six" Edition by Reginald Braithwaite](https://leanpub.com/javascriptallongesix/read)
 
+## Newsletters
+
+- [ES.next News](http://esnextnews.com/)
+- [JavaScript Weekly](http://javascriptweekly.com/)
+- [ECMAScript Daily](http://ecmascript-daily.github.io/)
+
 ## Contribute
 If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests! 
 You can do it directly through Github by clicking the "edit" button on this file.
