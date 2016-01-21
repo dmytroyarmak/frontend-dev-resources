@@ -54,6 +54,7 @@ List of useful resources for frontend developers
 - [EmpireNode 2015](https://www.youtube.com/playlist?list=PL31ehRjJCA6EB_ZI3YscW_UMP34XrguOt) (October 23, 2015)
 - [AngularConnect 2015](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g/videos) (October 20 - 21, 2015)
 - [Front Porch 2015](https://www.youtube.com/playlist?list=PLQ0rErbcJANqyar8u0GaUpLkjFrL-070T) (October 20, 2015)
+- [JSConf Colombia 2015](https://www.youtube.com/playlist?list=PL9pxtKnZMKEpVtBdhzgDSOCuCDDxsjnUd) (October 16 - 17, 2015)
 - [ConnectJS 2015](https://www.youtube.com/playlist?list=PLxhaQmHNqtY36A90dGoEhl2w-2m9xTGkG) (October 16 - 17, 2015)
 - [Falsy Values 2015](https://www.youtube.com/playlist?list=PLf8D7IhW472x1HRMShYMkZ0RMhGe9hK2f) (October 12 - 13, 2015)
 - [JSConf EU 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) (September 25 & 27, 2015)
