@@ -50,7 +50,7 @@ List of useful resources for frontend developers
 - [JSConf.Asia 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshGpDJn60AwbJ6xegSHe_cDh) (November 19 - 20, 2015)
 - [CSSConf.Asia 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHuiIn2HnJ965qO2k3aADqz) (November 18, 2015)
 - [Nodevember 2015](https://www.youtube.com/playlist?list=PLSZHCj84JSDMInvIg8mxNRmemoMwrySFj) (November 14 - 15, 2015)
-- [ffconf 2015](https://www.youtube.com/playlist?list=PLXmT1r4krsTqtLdWln2ritJZTjd5a06h2) (November 9, 2015)
+- [ffconf 2015](https://www.youtube.com/playlist?list=PLXmT1r4krsTqtLdWln2ritJZTjd5a06h2) (November 6, 2015)
 - [Reactive 2015](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg/videos) (November 2 - 4, 2015)
 - [EpicFEL 2015](https://www.youtube.com/playlist?list=PLOSHQ_hfikSo5_O6i5I2YxlPXJD1bpshV) (October 30, 2015)
 - [EmberCamp London 2015](https://www.youtube.com/playlist?list=PL4eq2DPpyBbnMrndBpPUFFdYiMLdp8__L) (October 29, 2015)
