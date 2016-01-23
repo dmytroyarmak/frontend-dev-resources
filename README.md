@@ -139,7 +139,17 @@ List of useful resources for frontend developers
 
 - [ES.next News](http://esnextnews.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
+- [HTML5 Weekly](http://html5weekly.com/)
+- [CSS Weekly](http://css-weekly.com/)
+- [Web Tools Weekly](http://webtoolsweekly.com/)
 - [ECMAScript Daily](http://ecmascript-daily.github.io/)
+- [Responsive Design Newsletter](http://responsivedesignweekly.com/)
+- [A Drip of JavaScript](http://adripofjavascript.com/)
+- [Fresh Brewed Frontend](https://freshbrewed.co/)
+- [Front End Newsletter](http://frontendnewsletter.com/)
+- [/dev tips](https://umaar.com/dev-tips/)
+- [Web Development Reading List](https://wdrl.info/)
+- [ng-newsletter](http://www.ng-newsletter.com/)
 
 ## Contribute
 If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests! 
