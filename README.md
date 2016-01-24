@@ -150,6 +150,8 @@ List of useful resources for frontend developers
 - [/dev tips](https://umaar.com/dev-tips/)
 - [Web Development Reading List](https://wdrl.info/)
 - [ng-newsletter](http://www.ng-newsletter.com/)
+- [React.js Newsletter](http://reactjsnewsletter.com/)
+- [Weekly React Digest](http://reactdigest.net/)
 
 ## Contribute
 If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests! 
