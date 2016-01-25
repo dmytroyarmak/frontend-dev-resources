@@ -31,6 +31,7 @@ List of useful resources for frontend developers
 ## Local Podcasts
 
 - [RadioJS](https://radiojs.ru/) :ru: ([RSS](https://radiojs.ru/feed/podcast/), [iTunes](https://itunes.apple.com/ru/podcast/radio-js/id904938655?l=en))
+- [DevNaEstrada](http://devnaestrada.com.br/) Brazil ([RSS](http://devnaestrada.com.br/feed.xml), [iTunes](https://itunes.apple.com/br/podcast/devnaestrada-desenvolvimento/id997779431))
 
 ## Web Shows
 
