@@ -152,6 +152,8 @@ List of useful resources for frontend developers
 - [ng-newsletter](http://www.ng-newsletter.com/)
 - [React.js Newsletter](http://reactjsnewsletter.com/)
 - [Weekly React Digest](http://reactdigest.net/)
+- [Ember Weekly](http://emberweekly.com/)
+- [Web Components Weekly](http://webcomponentsweekly.me/)
 
 ## Contribute
 If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests! 
