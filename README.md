@@ -27,7 +27,7 @@ List of useful resources for frontend developers
 - [Data Stories](http://datastori.es/) ([RSS](http://datastori.es/feed/), [iTunes](https://itunes.apple.com/us/podcast/data-stories/id502854960?mt=2))
 - [The Boagworld Web Show](https://boagworld.com/seasons/) ([RSS](http://feeds.feedburner.com/boagworldpodcast/), [iTunes](https://itunes.apple.com/gb/podcast/the-boagworld-show/id411449225))
 - [The Changelog](http://5by5.tv/changelog) ([RSS](http://feeds.5by5.tv/changelog), [iTunes](https://itunes.apple.com/podcast/the-changelog/id341623264))
-- [Reactive](http://reactive.audio/) ([RSS](https://simplecast.com/podcasts/1232/rss), [iTunes](https://itunes.apple.com/de/podcast/reactive/id1020286000))
+- [Reactive](http://reactive.audio/) ([RSS](https://simplecast.com/podcasts/1232/rss), [iTunes](https://itunes.apple.com/us/podcast/reactive/id1020286000))
 
 ## Local Podcasts
 
