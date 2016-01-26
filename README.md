@@ -29,6 +29,7 @@ List of useful resources for frontend developers
 - [The Changelog](http://5by5.tv/changelog) ([RSS](http://feeds.5by5.tv/changelog), [iTunes](https://itunes.apple.com/podcast/the-changelog/id341623264))
 - [Reactive](http://reactive.audio/) ([RSS](https://simplecast.com/podcasts/1232/rss), [iTunes](https://itunes.apple.com/us/podcast/reactive/id1020286000))
 - [CodePen Radio](http://blog.codepen.io/radio/) ([RSS](http://blog.codepen.io/feed/podcast/), [iTunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159))
+- [React Native Radio](https://devchat.tv/react-native-radio) ([RSS](http://feeds.feedwrench.com/react-native-radio.rss), [iTunes](https://itunes.apple.com/us/podcast/react-native-radio/id1058647602))
 
 ## Local Podcasts
 
