@@ -158,6 +158,11 @@ List of useful resources for frontend developers
 - [Ember Weekly](http://emberweekly.com/)
 - [Web Components Weekly](http://webcomponentsweekly.me/)
 
+## Other Resources
+- [JavaScript Charts: The Definitive Guide](http://www.fusioncharts.com/javascript-charts-guide/)
+- [What happens when you type google.com into your browser's address box and press enter](https://github.com/alex/what-happens-when)
+- [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
 ## Contribute
 If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests! 
 You can do it directly through Github by clicking the "edit" button on this file.
