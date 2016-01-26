@@ -157,6 +157,7 @@ List of useful resources for frontend developers
 - [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
 - [Ember Weekly](http://emberweekly.com/)
 - [Web Components Weekly](http://webcomponentsweekly.me/)
+- [jsTips](https://github.com/loverajoel/jstips)
 
 ## Other Resources
 - [JavaScript Charts: The Definitive Guide](http://www.fusioncharts.com/javascript-charts-guide/)
