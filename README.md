@@ -28,6 +28,7 @@ List of useful resources for frontend developers
 - [The Boagworld Web Show](https://boagworld.com/seasons/) ([RSS](http://feeds.feedburner.com/boagworldpodcast/), [iTunes](https://itunes.apple.com/gb/podcast/the-boagworld-show/id411449225))
 - [The Changelog](http://5by5.tv/changelog) ([RSS](http://feeds.5by5.tv/changelog), [iTunes](https://itunes.apple.com/podcast/the-changelog/id341623264))
 - [Reactive](http://reactive.audio/) ([RSS](https://simplecast.com/podcasts/1232/rss), [iTunes](https://itunes.apple.com/us/podcast/reactive/id1020286000))
+- [CodePen Radio](http://blog.codepen.io/radio/) ([RSS](http://blog.codepen.io/feed/podcast/), [iTunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159))
 
 ## Local Podcasts
 
