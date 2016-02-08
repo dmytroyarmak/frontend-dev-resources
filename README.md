@@ -45,6 +45,7 @@ List of useful resources for frontend developers
 - [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
 - [Polycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo)
 - [readthesource](http://hangouts.readthesource.io/)
+- [Transmission](https://www.youtube.com/playlist?list=PLTUf4ytkmI8Q7cbf4J6aQEYun5g8fxt9B)
 
 ## Conferences
 
