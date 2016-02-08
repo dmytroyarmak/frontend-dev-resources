@@ -124,6 +124,10 @@ List of useful resources for frontend developers
 
 - [A curated list of upcoming conferences](https://github.com/svenanders/upcoming-conferences)
 
+## Meetups
+
+- [TorontoJS](https://www.youtube.com/channel/UCfbBwpz9OFGf4IjHCTBFWVg)
+
 ## Free Online Books
 
 - [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
