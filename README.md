@@ -127,6 +127,7 @@ List of useful resources for frontend developers
 ## Meetups
 
 - [TorontoJS](https://www.youtube.com/channel/UCfbBwpz9OFGf4IjHCTBFWVg)
+- [AngularJS Utah](https://www.youtube.com/channel/UCeSMaHaImUialB8tPU859XQ)
 
 ## Free Online Books
 
