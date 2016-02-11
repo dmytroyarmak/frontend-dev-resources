@@ -129,6 +129,7 @@ List of useful resources for frontend developers
 - [TorontoJS](https://www.youtube.com/channel/UCfbBwpz9OFGf4IjHCTBFWVg)
 - [AngularJS Utah](https://www.youtube.com/channel/UCeSMaHaImUialB8tPU859XQ)
 - [AngularJS Boston](https://www.youtube.com/channel/UC-Wi4gQyRombx9PCA3T5eeQ)
+- [ViennaJS](https://www.youtube.com/channel/UChgAsJYZYZMFII4cvg8W09w)
 
 ## Free Online Books
 
