@@ -174,6 +174,13 @@ List of useful resources for frontend developers
 - [Web Components Weekly](http://webcomponentsweekly.me/)
 - [jsTips](http://www.jstips.co/)
 
+
+## Online courses
+- [Codecademy](https://www.codecademy.com/)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+- [Code School](https://www.codeschool.com/)
+- [Udacity](https://www.udacity.com/courses/web-development)
+
 ## Other Resources
 - [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
 - [JavaScript Charts: The Definitive Guide](http://www.fusioncharts.com/javascript-charts-guide/)
