@@ -52,6 +52,7 @@ List of useful resources for frontend developers
 
 ## Conferences
 
+- [React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY) (February 22 - 23, 2016)
 - [dotJS 2015](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG70G62mxQR0OC4GkUcNLRnC) (December 7, 2015)
 - [CSSDay.io 2015](https://www.youtube.com/playlist?list=PLfWvsMtBxHo1WqPrBwxq3zc2RDo5HkYwy) (December 5, 2015)
 - [dotCSS 2015](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG5kujoYQdw94ip3cnV4WR59) (December 4, 2015)
