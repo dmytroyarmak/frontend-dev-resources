@@ -174,6 +174,7 @@ List of useful resources for frontend developers
 - [Ember Weekly](http://emberweekly.com/)
 - [Web Components Weekly](http://webcomponentsweekly.me/)
 - [jsTips](http://www.jstips.co/)
+- [Pony Foo Weekly](https://ponyfoo.com/weekly)
 
 
 ## Online courses
