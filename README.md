@@ -31,6 +31,7 @@ List of useful resources for frontend developers
 - [CodePen Radio](http://blog.codepen.io/radio/) ([RSS](http://blog.codepen.io/feed/podcast/), [iTunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159))
 - [React Native Radio](https://devchat.tv/react-native-radio) ([RSS](http://feeds.feedwrench.com/react-native-radio.rss), [iTunes](https://itunes.apple.com/us/podcast/react-native-radio/id1058647602))
 - [Real World Ember](http://www.real-world-ember.com/) ([RSS](https://simplecast.com/podcasts/1600/rss), [iTunes](https://itunes.apple.com/us/podcast/real-world-ember/id1082253744))
+- [Modern Web](http://modernweb.podbean.com/) ([RSS](http://modernweb.podbean.com/feed/), [iTunes](https://itunes.apple.com/us/podcast/modern-web/id1084236187))
 
 ## Local Podcasts
 
