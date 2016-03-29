@@ -1,6 +1,19 @@
 # frontend-dev-resources
 List of useful resources for frontend developers
 
+- [Podcasts](#podcasts)
+- [Local Podcasts](#local-podcasts)
+- [Web Shows](#web-shows)
+- [Conferences](#conferences)
+- [Local Conferences](#local-conferences)
+- [Upcoming Confernces](#upcoming-conferences)
+- [Meetups](#meetups)
+- [Free Online Books](#free-online-books)
+- [Newsletters](#newsletters)
+- [Online Courses](#online-courses)
+- [Other Resources](#other-resources)
+- [Contribute](#contribute)
+
 ## Podcasts
 
 - [JavaScript Jabber](https://devchat.tv/js-jabber/) ([RSS](http://feeds.feedwrench.com/JavaScriptJabber.rss),  [iTunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2))
@@ -194,5 +207,5 @@ List of useful resources for frontend developers
 - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ## Contribute
-If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests! 
+If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests!
 You can do it directly through Github by clicking the "edit" button on this file.
