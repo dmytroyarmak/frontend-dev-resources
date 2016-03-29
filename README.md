@@ -195,6 +195,7 @@ List of useful resources for frontend developers
 - [jsTips](http://www.jstips.co/)
 - [Pony Foo Weekly](https://ponyfoo.com/weekly)
 - [Frontend BUZZ](https://frontend.buzz/)
+- [CSS Layout](http://csslayout.news/)
 
 
 ## Online courses
