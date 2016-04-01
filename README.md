@@ -197,6 +197,7 @@ List of useful resources for frontend developers
 - [Frontend BUZZ](https://frontend.buzz/)
 - [CSS Layout](http://csslayout.news/)
 - [Web Animation Weekly](http://webanimationweekly.com/)
+- [eWebDesign](https://ewebdesign.com/)
 
 ## Online courses
 - [Codecademy](https://www.codecademy.com/)
