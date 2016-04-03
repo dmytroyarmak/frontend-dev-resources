@@ -198,6 +198,7 @@ List of useful resources for frontend developers
 - [CSS Layout](http://csslayout.news/)
 - [Web Animation Weekly](http://webanimationweekly.com/)
 - [eWebDesign](https://ewebdesign.com/)
+- [Fullstack React](http://newsletter.fullstackreact.com/)
 
 ## Online courses
 - [Codecademy](https://www.codecademy.com/)
