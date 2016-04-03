@@ -68,6 +68,7 @@ List of useful resources for frontend developers
 
 ## Conferences
 
+- [O'Reilly Fluent Conference 2016](https://www.youtube.com/playlist?list=PL_EOLDFKBK6oFFdw2DyigcEMI9bV7lyiI) (March 7 - 10, 2016)
 - [React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY) (February 22 - 23, 2016)
 - [NG-NL 2016](https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw) (February 17 - 18, 2016)
 - [Forward 4 Web Summit](https://www.youtube.com/playlist?list=PLndbWGuLoHebKI8krCzJU88Rf3TwhNZvH) (February 8 - 13, 2016)
