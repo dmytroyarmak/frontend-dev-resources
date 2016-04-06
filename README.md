@@ -174,6 +174,7 @@ List of useful resources for frontend developers
 - [Mostly Adequate Guide to Functional Programming by Brian Lonsdorf](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [JavaScript Allongé, the "Six" Edition by Reginald Braithwaite](https://leanpub.com/javascriptallongesix/read)
 - [SurviveJS - Webpack and React](http://survivejs.com/webpack_react/introduction/)
+- [Enduring CSS](http://ecss.io/)
 
 ## Newsletters
 
