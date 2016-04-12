@@ -212,6 +212,7 @@ List of useful resources for frontend developers
 - [Code School](https://www.codeschool.com/)
 - [Udacity](https://www.udacity.com/courses/web-development)
 - [freeCodeCamp](https://www.freecodecamp.com/)
+- [Udemy](https://www.udemy.com/)
 
 ## Other Resources
 - [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
