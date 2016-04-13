@@ -178,6 +178,7 @@ List of useful resources for frontend developers
 
 ## Newsletters
 
+- [Web Design Weekly](https://web-design-weekly.com/)
 - [ES.next News](http://esnextnews.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
 - [HTML5 Weekly](http://html5weekly.com/)
