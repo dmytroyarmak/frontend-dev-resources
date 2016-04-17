@@ -220,6 +220,7 @@ List of useful resources for frontend developers
 - [Udemy](https://www.udemy.com/)
 - [egghead](https://egghead.io/)
 - [Pluralsight](https://www.pluralsight.com/)
+- [Front End Masters](https://frontendmasters.com/courses/)
 
 ## Other Resources
 - [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
