@@ -179,6 +179,7 @@ List of useful resources for frontend developers
 - [JavaScript Allongé, the "Six" Edition by Reginald Braithwaite](https://leanpub.com/javascriptallongesix/read)
 - [SurviveJS - Webpack and React](http://survivejs.com/webpack_react/introduction/)
 - [Enduring CSS](http://ecss.io/)
+- [JavaScript For Cats](http://jsforcats.com/)
 
 ## Newsletters
 
