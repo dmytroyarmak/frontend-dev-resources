@@ -48,6 +48,7 @@ List of useful resources for frontend developers
 - [Ember Land](http://ember.land/) ([RSS](http://ember.land/?format=rss), [iTunes](https://itunes.apple.com/us/podcast/ember-land/id963237217?mt=2))
 - [Ember Weekend](https://emberweekend.com/episodes) ([RSS](https://emberweekend.com/feed.xml), [iTunes](https://itunes.apple.com/us/podcast/ember-weekend/id981719021))
 - [3 Minutes with Kent](https://www.briefs.fm/3-minutes-with-kent/) ([RSS](http://www.briefs.fm/3-minutes-with-kent.xml), [iTunes](https://itunes.apple.com/us/podcast/3-minutes-with-kent/id1082883103?mt=2))
+- [Bit Podcast](https://bitpodcast.com/) ([RSS](https://bitpodcast.com/podcast.rss), [iTunes](https://itunes.apple.com/us/podcast/bit-podcast/id980882853))
 
 ## Local Podcasts
 
