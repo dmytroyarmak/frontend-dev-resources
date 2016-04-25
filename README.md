@@ -70,6 +70,7 @@ List of useful resources for frontend developers
 
 ## Conferences
 
+- [Fronteers 2016](https://vimeo.com/fronteers/videos) (April 1, 2016)
 - [EmberConf 2016](https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW) (March 28 - 30, 2016)
 - [O'Reilly Fluent Conference 2016](https://www.youtube.com/playlist?list=PL_EOLDFKBK6oFFdw2DyigcEMI9bV7lyiI) (March 7 - 10, 2016)
 - [EnhanceConf 2016](https://www.youtube.com/playlist?list=PLXcpGvKha8IK5V8JpPU1majsBbAtM5wlT) (March 3 - 4, 2016)
