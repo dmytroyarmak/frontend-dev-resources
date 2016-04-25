@@ -165,6 +165,7 @@ List of useful resources for frontend developers
 
 ## Free Online Books
 
+- [Practical JavaScript](https://practicaljavascript.net)
 - [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [You Don't Know JS: Up & Going by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [You Don't Know JS: Scope & Closures by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -214,7 +215,11 @@ List of useful resources for frontend developers
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
 - [Jekyll Weekly](http://jekyllweekly.com/)
 
+## Video courses
+- [Practical JavaScript](https://practicaljavascript.net)
+
 ## Online courses
+- [Watch and Code](https://watchandcode.com)
 - [Codecademy](https://www.codecademy.com/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Code School](https://www.codeschool.com/)
