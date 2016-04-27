@@ -72,9 +72,10 @@ List of useful resources for frontend developers
 ## Conferences
 
 - [CycleConf 2016](https://www.youtube.com/channel/UCBVwVsE4eVlEwf60nKHmLpQ) (April 22 - 24, 2016)
-- [SmashingConf San Francisco 2016](https://vimeo.com/smashingmagazine/videos) (April 5 - 6, 2016)
+- [SmashingConf San Francisco 2016](http://smashingconf.com/sf-2016/) (April 5 - 6, 2016)
 - [Fronteers 2016](https://vimeo.com/fronteers/videos) (April 1, 2016)
 - [EmberConf 2016](https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW) (March 28 - 30, 2016)
+- [SmashingConf Oxford 2016](http://smashingconf.com/oxford-2016/) (March 15 - 16, 2016)
 - [O'Reilly Fluent Conference 2016](https://www.youtube.com/playlist?list=PL_EOLDFKBK6oFFdw2DyigcEMI9bV7lyiI) (March 7 - 10, 2016)
 - [EnhanceConf 2016](https://www.youtube.com/playlist?list=PLXcpGvKha8IK5V8JpPU1majsBbAtM5wlT) (March 3 - 4, 2016)
 - [React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY) (February 22 - 23, 2016)
