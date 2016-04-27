@@ -219,6 +219,7 @@ List of useful resources for frontend developers
 - [Changelog Weekly](https://changelog.com/weekly/)
 - [HeyDesigner](http://heydesigner.com/)
 - [Meteor Weekly](http://meteorweekly.com/)
+- [Sass News](http://www.sassnews.com/)
 
 ## Online courses
 - [Codecademy](https://www.codecademy.com/)
