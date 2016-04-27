@@ -217,6 +217,7 @@ List of useful resources for frontend developers
 - [Jekyll Weekly](http://jekyllweekly.com/)
 - [UX Design Weekly](http://uxdesignweekly.com/)
 - [Changelog Weekly](https://changelog.com/weekly/)
+- [HeyDesigner](http://heydesigner.com/)
 
 ## Online courses
 - [Codecademy](https://www.codecademy.com/)
