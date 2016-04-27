@@ -216,6 +216,7 @@ List of useful resources for frontend developers
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
 - [Jekyll Weekly](http://jekyllweekly.com/)
 - [UX Design Weekly](http://uxdesignweekly.com/)
+- [Changelog Weekly](https://changelog.com/weekly/)
 
 ## Online courses
 - [Codecademy](https://www.codecademy.com/)
