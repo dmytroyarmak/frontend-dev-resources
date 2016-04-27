@@ -220,6 +220,7 @@ List of useful resources for frontend developers
 - [HeyDesigner](http://heydesigner.com/)
 - [Meteor Weekly](http://meteorweekly.com/)
 - [Sass News](http://www.sassnews.com/)
+- [Scotch.io Newsletter](https://scotch.io/)
 
 ## Online courses
 - [Codecademy](https://www.codecademy.com/)
