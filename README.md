@@ -186,6 +186,12 @@ List of useful resources for frontend developers
 - [SurviveJS - Webpack and React](http://survivejs.com/webpack_react/introduction/)
 - [Enduring CSS](http://ecss.io/)
 - [JavaScript For Cats](http://jsforcats.com/)
+- [Building Front-End Web Apps with Plain JavaScript](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book/)
+- [Understanding ES6](https://leanpub.com/understandinges6/read)
+- [Systematic Web Design](http://www.systematicwebdesign.com/)
+- [CSS Guidelines](http://cssguidelin.es/)
+- [HTML Canvas Deep Dive](http://files.joshondesign.com/books/canvasdeepdive/toc.html)
+- [Dive Into HTML5](http://diveintohtml5.info/index.html)
 
 ## Newsletters
 
