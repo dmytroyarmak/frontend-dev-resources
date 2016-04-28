@@ -100,6 +100,7 @@ List of useful resources for frontend developers
 - [ConnectJS 2015](https://www.youtube.com/playlist?list=PLxhaQmHNqtY36A90dGoEhl2w-2m9xTGkG) (October 16 - 17, 2015)
 - [Falsy Values 2015](https://www.youtube.com/playlist?list=PLf8D7IhW472x1HRMShYMkZ0RMhGe9hK2f) (October 12 - 13, 2015)
 - [JSConf EU 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) (September 25 & 27, 2015)
+- [From the Front 2015](https://vimeo.com/channels/ftf15/videos) (September 17 - 18, 2015)
 - [JSConf China 2015](https://www.youtube.com/playlist?list=PLEHsmTsBKpKX8Fhrh3BCyzGJgc2f15-KY) (July 11 & 12, 2015)
 - [CSSConf EU 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9) (September 26, 2015)
 - [Reject.JS 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHtusNoObfs0hKDrRjBkzHN) (September 24, 2015)
