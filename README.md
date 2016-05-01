@@ -68,6 +68,7 @@ List of useful resources for frontend developers
 - [readthesource](http://hangouts.readthesource.io/)
 - [Transmission](https://www.youtube.com/playlist?list=PLTUf4ytkmI8Q7cbf4J6aQEYun5g8fxt9B)
 - [DevTools Tonight](https://www.youtube.com/playlist?list=PLNYkxOF6rcICz2MF116mD8nn7yzAA0DtM)
+- [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 
 ## Conferences
 
