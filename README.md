@@ -233,6 +233,7 @@ List of useful resources for frontend developers
 - [Meteor Weekly](http://meteorweekly.com/)
 - [Sass News](http://www.sassnews.com/)
 - [Scotch.io Newsletter](https://scotch.io/)
+- [Web Love Weekly](https://tinyletter.com/unakravets)
 
 ## Online courses
 - [Codecademy](https://www.codecademy.com/)
