@@ -195,6 +195,7 @@ List of useful resources for frontend developers
 - [CSS Guidelines](http://cssguidelin.es/)
 - [HTML Canvas Deep Dive](http://files.joshondesign.com/books/canvasdeepdive/toc.html)
 - [Dive Into HTML5](http://diveintohtml5.info/index.html)
+- [The Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 
 ## Newsletters
 
