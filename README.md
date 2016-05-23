@@ -251,6 +251,9 @@ List of useful resources for frontend developers
 - [Pluralsight](https://www.pluralsight.com/)
 - [Front End Masters](https://frontendmasters.com/courses/)
 
+## Educational games
+- [CSS Diner](http://flukeout.github.io/)
+
 ## Other Resources
 - [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
 - [JavaScript Charts: The Definitive Guide](http://www.fusioncharts.com/javascript-charts-guide/)
