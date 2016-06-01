@@ -73,6 +73,7 @@ List of useful resources for frontend developers
 
 ## Conferences
 
+- [At the Frontend 2016](https://vimeo.com/channels/atthefrontend) (May 24 - 25, 2016)
 - [ng-conf 2016](https://www.youtube.com/playlist?list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j) (May 4 - 6, 2016)
 - [JSUnconf 2016](https://www.youtube.com/playlist?list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b) (April 23 - 24, 2016)
 - [CycleConf 2016](https://www.youtube.com/channel/UCBVwVsE4eVlEwf60nKHmLpQ) (April 22 - 24, 2016)
