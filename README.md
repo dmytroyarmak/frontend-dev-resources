@@ -192,6 +192,7 @@ List of useful resources for frontend developers
 - [Web Components Weekly](http://webcomponentsweekly.me/)
 - [jsTips](http://www.jstips.co/)
 - [Pony Foo Weekly](https://ponyfoo.com/weekly)
+- [Sass News](http://sassnews.com/)
 
 
 ## Online courses
