@@ -73,6 +73,7 @@ List of useful resources for frontend developers
 
 ## Conferences
 
+- [ReactEurope 2016](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa) (June 2 - 3, 2016)
 - [At the Frontend 2016](https://vimeo.com/channels/atthefrontend) (May 24 - 25, 2016)
 - [Google I/O 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDz1TzmmMRBC-kd8zPRTQIP) (May 18 - 30, 2016)
 - [ng-conf 2016](https://www.youtube.com/playlist?list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j) (May 4 - 6, 2016)
