@@ -75,6 +75,7 @@ List of useful resources for frontend developers
 
 - [Web Rebels 2016](https://opbeat.com/events/web-rebels-2016/) (June 2 - 3, 2016)
 - [ReactEurope 2016](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa) (June 2 - 3, 2016)
+- [CSSConf Nordic 2016](https://opbeat.com/events/cssconf-nordic-2016/) (June 1, 2016)
 - [Frontend United 2016](https://www.youtube.com/playlist?list=PL7xqy2B8uXNK5L7ROxqY_CxKCVPE2IAJx) (May 27 - 28, 2016)
 - [At the Frontend 2016](https://vimeo.com/channels/atthefrontend) (May 24 - 25, 2016)
 - [Google I/O 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDz1TzmmMRBC-kd8zPRTQIP) (May 18 - 30, 2016)
