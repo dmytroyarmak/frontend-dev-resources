@@ -50,6 +50,7 @@ List of useful resources for frontend developers
 - [3 Minutes with Kent](https://www.briefs.fm/3-minutes-with-kent/) ([RSS](http://www.briefs.fm/3-minutes-with-kent.xml), [iTunes](https://itunes.apple.com/us/podcast/3-minutes-with-kent/id1082883103?mt=2))
 - [Bit Podcast](https://bitpodcast.com/) ([RSS](https://bitpodcast.com/podcast.rss), [iTunes](https://itunes.apple.com/us/podcast/bit-podcast/id980882853))
 - [Front End Happy Hour](http://frontendhappyhour.com/) ([RSS](http://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss), [iTunes](https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2))
+- [SpaceDojo Show](https://show.spacedojo.com/) ([RSS](https://simplecast.com/podcasts/1108/rss), [iTunes](https://itunes.apple.com/us/podcast/id984131621&mt=2))
 
 ## Local Podcasts
 
