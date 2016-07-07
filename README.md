@@ -183,6 +183,7 @@ List of useful resources for frontend developers
 - [AngularJS Boston](https://www.youtube.com/channel/UC-Wi4gQyRombx9PCA3T5eeQ)
 - [ViennaJS](https://www.youtube.com/channel/UChgAsJYZYZMFII4cvg8W09w)
 - [MelbCSS](https://www.youtube.com/channel/UCIpyTmd8_cCk26yzBaTIhUQ)
+- [React Amsterdam Meetup](https://www.youtube.com/playlist?list=PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV)
 
 ## Free Online Books
 
