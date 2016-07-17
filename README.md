@@ -73,7 +73,7 @@ List of useful resources for frontend developers
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 
 ## Conferences
-
+- [BlinkOn 6](https://www.youtube.com/playlist?list=PL9ioqAuyl6UL-7hTmxb3WQjMwQmANbVPL) (June 16 - 17, 2016)
 - [Web Rebels 2016](https://opbeat.com/events/web-rebels-2016/) (June 2 - 3, 2016)
 - [ReactEurope 2016](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa) (June 2 - 3, 2016)
 - [CSSConf Nordic 2016](https://opbeat.com/events/cssconf-nordic-2016/) (June 1, 2016)
