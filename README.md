@@ -73,6 +73,10 @@ List of useful resources for frontend developers
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 
 ## Conferences
+- [PHP Conference 2016 Philippines](http://www.phpconfph.com/) (October 13 - 14, 2016)
+- [Full Stack Fest 2016](https://2016.fullstackfest.com/) (September 5 - 9, 2016)
+- [JSConf Iceland](https://2016.jsconf.is/) (August 25 - 26, 2016)
+- [BrazilJS Conference 2016](http://braziljs.com.br/) (August 19 – 20, 2016)
 - [You Gotta Love Frontend 2016](https://www.youtube.com/playlist?list=PLII-CO3Ff0qY1VbkvUyLcUmegS3U7XB1D) (June 27 - 28, 2016)
 - [BlinkOn 6](https://www.youtube.com/playlist?list=PL9ioqAuyl6UL-7hTmxb3WQjMwQmANbVPL) (June 16 - 17, 2016)
 - [Web Rebels 2016](https://opbeat.com/events/web-rebels-2016/) (June 2 - 3, 2016)
