@@ -73,6 +73,7 @@ List of useful resources for frontend developers
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 
 ## Conferences
+- [CascadiaFest 2016](https://www.youtube.com/playlist?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe) (August 3 - 5, 2016)
 - [You Gotta Love Frontend 2016](https://www.youtube.com/playlist?list=PLII-CO3Ff0qY1VbkvUyLcUmegS3U7XB1D) (June 27 - 28, 2016)
 - [CSS Day 2016](https://vimeo.com/channels/cssday) (June 16 - 17, 2016)
 - [BlinkOn 6](https://www.youtube.com/playlist?list=PL9ioqAuyl6UL-7hTmxb3WQjMwQmANbVPL) (June 16 - 17, 2016)
