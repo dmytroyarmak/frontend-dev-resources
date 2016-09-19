@@ -74,6 +74,7 @@ List of useful resources for frontend developers
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 
 ## Conferences
+- [ColdFront16](https://www.youtube.com/playlist?list=PLl0kzWeYVmgv05ZH3JVlji75e_wmvdirG) (September 1, 2016)
 - [CascadiaFest 2016](https://www.youtube.com/playlist?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe) (August 3 - 5, 2016)
 - [NDC Sydney 2016](https://www.youtube.com/playlist?list=PL03Lrmd9CiGefSKKePkvtkKkflApUK1qD) (August 1 - 5, 2016)
 - [You Gotta Love Frontend 2016](https://www.youtube.com/playlist?list=PLII-CO3Ff0qY1VbkvUyLcUmegS3U7XB1D) (June 27 - 28, 2016)
