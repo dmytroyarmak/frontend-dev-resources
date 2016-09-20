@@ -76,6 +76,7 @@ List of useful resources for frontend developers
 
 ## Conferences
 - [ColdFront16](https://www.youtube.com/playlist?list=PLl0kzWeYVmgv05ZH3JVlji75e_wmvdirG) (September 1, 2016)
+- [React Rally 2016](https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ) (August 25 - 26, 2016)
 - [JSConf Iceland 2016](https://www.youtube.com/playlist?list=PL37ZVnwpeshGtbb-i7WJqtxZhoe5AGIw4) (August 25 - 26, 2016)
 - [CascadiaFest 2016](https://www.youtube.com/playlist?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe) (August 3 - 5, 2016)
 - [NDC Sydney 2016](https://www.youtube.com/playlist?list=PL03Lrmd9CiGefSKKePkvtkKkflApUK1qD) (August 1 - 5, 2016)
