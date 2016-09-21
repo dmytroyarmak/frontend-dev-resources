@@ -86,6 +86,7 @@ List of useful resources for frontend developers
 - [BlinkOn 6](https://www.youtube.com/playlist?list=PL9ioqAuyl6UL-7hTmxb3WQjMwQmANbVPL) (June 16 - 17, 2016)
 - [Web Rebels 2016](https://opbeat.com/events/web-rebels-2016/) (June 2 - 3, 2016)
 - [ReactEurope 2016](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa) (June 2 - 3, 2016)
+- [ScotlandCSS 2016](https://www.youtube.com/playlist?list=PLuSs1n_VmTdPWoKyU3fhmHm0sTikj7OiW) (June 1, 2016)
 - [CSSConf Nordic 2016](https://opbeat.com/events/cssconf-nordic-2016/) (June 1, 2016)
 - [Frontend United 2016](https://www.youtube.com/playlist?list=PL7xqy2B8uXNK5L7ROxqY_CxKCVPE2IAJx) (May 27 - 28, 2016)
 - [EmpireJS 2016](https://www.youtube.com/playlist?list=PL31ehRjJCA6GsdqLlLuMe7md1lgxG49BF) (May 26 - 27, 2016)
