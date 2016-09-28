@@ -75,6 +75,7 @@ List of useful resources for frontend developers
 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
 ## Conferences
+- [AngularConnect 2016](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g/videos) (September 27 - 88, 2016)
 - [Full Stack Fest 2016](https://www.youtube.com/playlist?list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) (September 5 - 9, 2016)
 - [ColdFront16](https://www.youtube.com/playlist?list=PLl0kzWeYVmgv05ZH3JVlji75e_wmvdirG) (September 1, 2016)
 - [React Rally 2016](https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ) (August 25 - 26, 2016)
