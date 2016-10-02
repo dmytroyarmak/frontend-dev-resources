@@ -262,6 +262,7 @@ List of useful resources for frontend developers
 - [Scotch.io Newsletter](https://scotch.io/)
 - [Web Love Weekly](https://tinyletter.com/unakravets)
 - [5thingsAngular](http://5thingsangular.github.io/)
+- [React Status](http://react.statuscode.com/)
 
 ## Online courses
 - [Codecademy](https://www.codecademy.com/)
