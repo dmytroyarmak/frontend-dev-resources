@@ -74,6 +74,7 @@ List of useful resources for frontend developers
 - [DevTools Tonight](https://www.youtube.com/playlist?list=PLNYkxOF6rcICz2MF116mD8nn7yzAA0DtM)
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+- [The Standard](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
 
 ## Conferences
 - [Chrome Dev Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBTs2KPy1E6tIYaWoFcG3uj) (November 10 - 11, 2016)
