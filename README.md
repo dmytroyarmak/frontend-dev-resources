@@ -283,6 +283,7 @@ List of useful resources for frontend developers
 - [Web Love Weekly](https://tinyletter.com/unakravets)
 - [5thingsAngular](http://5thingsangular.github.io/)
 - [React Status](http://react.statuscode.com/)
+- [Angular 2 Comet](http://bit.ly/ng2comet)
 
 ## Online courses
 - [Codecademy](https://www.codecademy.com/)
