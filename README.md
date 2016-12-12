@@ -82,6 +82,7 @@ List of useful resources for frontend developers
 - [CSSConf Australia 2016](https://www.youtube.com/watch?v=skzcEKewOwc) (November 30, 2016)
 - [JSConf.Asia 2016](https://www.youtube.com/playlist?list=PL37ZVnwpeshFn7VjMHjenn8niUTYNe8O7) (November 25 - 26, 2016)
 - [CSSConf.Asia 2016](https://www.youtube.com/playlist?list=PL37ZVnwpeshFizH1JsG3s7_qyN2Uk0OSh) (November 24, 2016)
+- [ffconf 2016](https://www.youtube.com/playlist?list=PLXmT1r4krsTpDoGcdh1baZPIV6DtX9_rX) (November 10 - 11, 2016)
 - [Chrome Dev Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBTs2KPy1E6tIYaWoFcG3uj) (November 10 - 11, 2016)
 - [beyond tellerrand // Berlin 2016](https://vimeo.com/album/4245120) (November 7 - 9, 2016)
 - [ReactiveConf 2016](https://www.youtube.com/playlist?list=PLa2ZZ09WYepMCRRGCRPhTYuTCat4TiDlX) (October 26 - 28, 2016)
