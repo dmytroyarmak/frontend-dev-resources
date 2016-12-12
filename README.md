@@ -90,6 +90,7 @@ List of useful resources for frontend developers
 - [Polymer Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ) (October 17 - 18, 2016)
 - [ReactNL 2016](https://www.youtube.com/channel/UCcgqya8hKZcF-XvaNMBknCw) (October 13, 2016)
 - [ReactJsDay 2016](https://vimeo.com/album/4199344)  (October 7, 2016)
+- [Fronteers Conference 2016](https://vimeo.com/channels/fronteers16/videos) (October 6 - 7, 2016)
 - [AngularConnect 2016](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g/videos) (September 27 - 28, 2016)
 - [CSSConf 2016](https://www.youtube.com/playlist?list=PLlgxAbM67lYJRnZlE8nLsQAXxa4pGXO3I) (September 26 - 27, 2016)
 - [SmartWeb 2016](https://www.youtube.com/playlist?list=PLbUMlIAqtRWNqWSd7GezB9heEgNq3I9I6) (September 20, 2016)
