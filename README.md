@@ -78,6 +78,7 @@ List of useful resources for frontend developers
 - [The Standard](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
 
 ## Conferences
+- [NG-BE 2016](https://www.youtube.com/playlist?list=PL9pV_RwZceNiMTRikpXOx5SCuxShwdLNW) (December 8 - 9, 2016)
 - [JSConf Australia 2016](https://www.youtube.com/watch?v=kGXpgAb3Sbk) (December 1, 2016)
 - [CSSConf Australia 2016](https://www.youtube.com/watch?v=skzcEKewOwc) (November 30, 2016)
 - [JSConf.Asia 2016](https://www.youtube.com/playlist?list=PL37ZVnwpeshFn7VjMHjenn8niUTYNe8O7) (November 25 - 26, 2016)
