@@ -83,6 +83,7 @@ List of useful resources for frontend developers
 - [dotCSS 2016](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA) (December 2, 2016)
 - [JSConf Australia 2016](https://www.youtube.com/watch?v=kGXpgAb3Sbk) (December 1, 2016)
 - [CSSConf Australia 2016](https://www.youtube.com/watch?v=skzcEKewOwc) (November 30, 2016)
+- [JS Kongress 2016](https://www.youtube.com/playlist?list=PL8ajgHZ7PoCtMSlPCt2TTRyI6dRN3vPCf) (November 28 - 29, 2016)
 - [JSConf.Asia 2016](https://www.youtube.com/playlist?list=PL37ZVnwpeshFn7VjMHjenn8niUTYNe8O7) (November 25 - 26, 2016)
 - [CSSConf.Asia 2016](https://www.youtube.com/playlist?list=PL37ZVnwpeshFizH1JsG3s7_qyN2Uk0OSh) (November 24, 2016)
 - [NG-Poland 2016](https://www.youtube.com/playlist?list=UU55UiwMH_7PVcKrkriXSHuw) (November 21 - 22, 2016)
