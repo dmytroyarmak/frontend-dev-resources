@@ -80,6 +80,7 @@ List of useful resources for frontend developers
 ## Conferences
 - [NG-BE 2016](https://www.youtube.com/playlist?list=PL9pV_RwZceNiMTRikpXOx5SCuxShwdLNW) (December 8 - 9, 2016)
 - [dotJS 2016](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA) (December 5, 2016)
+- [CSSDay.io 2016](https://www.youtube.com/playlist?list=PLfWvsMtBxHo2k3QAIOqqX_SnOCjZgdueT) (December 3, 2016)
 - [dotCSS 2016](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA) (December 2, 2016)
 - [JSConf Australia 2016](https://www.youtube.com/watch?v=kGXpgAb3Sbk) (December 1, 2016)
 - [CSSConf Australia 2016](https://www.youtube.com/watch?v=skzcEKewOwc) (November 30, 2016)
