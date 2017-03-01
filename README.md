@@ -78,6 +78,7 @@ List of useful resources for frontend developers
 - [The Standard](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
 
 ## Conferences
+- [ngVikings 2017](https://opbeat.com/community/events/ngvikings-2017) (February 11 - 12, 2017)
 - [NG-BE 2016](https://www.youtube.com/playlist?list=PL9pV_RwZceNiMTRikpXOx5SCuxShwdLNW) (December 8 - 9, 2016)
 - [dotJS 2016](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA) (December 5, 2016)
 - [CSSDay.io 2016](https://www.youtube.com/playlist?list=PLfWvsMtBxHo2k3QAIOqqX_SnOCjZgdueT) (December 3, 2016)
