@@ -78,6 +78,7 @@ List of useful resources for frontend developers
 - [The Standard](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
 
 ## Conferences
+- [ng-conf 2017](https://www.youtube.com/user/ngconfvideos/videos) (April 5 - 7, 2017)
 - [Render 2017](https://www.youtube.com/playlist?list=PLBzScQzZ83I_n5kvxmUaRNZvc_vsCuEQD) (March 30 - 31, 2017)
 - [NG-NL 2017](https://www.youtube.com/playlist?list=PLQi8NNYCH8TDFnOhjrIsjZGMD6Ks8SQid) (March 16, 2017)
 - [React Conf 2017](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0) (March 13 - 14, 2017)
