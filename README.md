@@ -98,6 +98,7 @@ List of useful resources for frontend developers
 - [ffconf 2016](https://www.youtube.com/playlist?list=PLXmT1r4krsTpDoGcdh1baZPIV6DtX9_rX) (November 10 - 11, 2016)
 - [Chrome Dev Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBTs2KPy1E6tIYaWoFcG3uj) (November 10 - 11, 2016)
 - [beyond tellerrand // Berlin 2016](https://vimeo.com/album/4245120) (November 7 - 9, 2016)
+- [Mixin 2016](https://www.youtube.com/playlist?list=PLozowMJEk3QQA4jfOjbkjuWobsccdcJZ9) (October 28, 2016)
 - [ReactiveConf 2016](https://www.youtube.com/playlist?list=PLa2ZZ09WYepMCRRGCRPhTYuTCat4TiDlX) (October 26 - 28, 2016)
 - [ng-europe 2016](https://www.youtube.com/channel/UCEGUP3TJJfMsEM_1y8iviSQ/videos) (October 25 - 26, 2016) 
 - [Polymer Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ) (October 17 - 18, 2016)
