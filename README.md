@@ -123,6 +123,7 @@ List of useful resources for frontend developers
 - [You Gotta Love Frontend 2016](https://www.youtube.com/playlist?list=PLII-CO3Ff0qY1VbkvUyLcUmegS3U7XB1D) (June 27 - 28, 2016)
 - [CSS Day 2016](https://vimeo.com/channels/cssday) (June 16 - 17, 2016)
 - [BlinkOn 6](https://www.youtube.com/playlist?list=PL9ioqAuyl6UL-7hTmxb3WQjMwQmANbVPL) (June 16 - 17, 2016)
+- [ScotlandJS 2016](https://www.youtube.com/playlist?list=PLuSs1n_VmTdPJ-BksOuOXmO-DNXFGFfQB) (June 2 - 3, 2016)
 - [Web Rebels 2016](https://opbeat.com/events/web-rebels-2016/) (June 2 - 3, 2016)
 - [ReactEurope 2016](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa) (June 2 - 3, 2016)
 - [ScotlandCSS 2016](https://www.youtube.com/playlist?list=PLuSs1n_VmTdPWoKyU3fhmHm0sTikj7OiW) (June 1, 2016)
