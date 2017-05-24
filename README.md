@@ -78,6 +78,7 @@ List of useful resources for frontend developers
 - [The Standard](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
 
 ## Conferences
+- [ReactEurope 2017](https://www.youtube.com/playlist?list=PLCC436JpVnK3ruJeDWd-xWIMb0l47VcxD) (May 18 - 19, 2017)
 - [JSConf EU 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_) (May 6 - 7, 2017)
 - [Jazoon TechDays Spring 2017](https://www.youtube.com/playlist?list=PLYX1a6mVbBmwxlbypvj-vSteF_KNuU0S_) (April 28, 2017)
 - [React Amsterdam 2017](https://www.youtube.com/playlist?list=PLNBNS7NRGKMHxfm0CcYNuINLdRw7r4a9M) (April 20, 2017)
