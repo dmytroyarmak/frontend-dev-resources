@@ -267,6 +267,7 @@ List of useful resources for frontend developers
 - [Dive Into HTML5](http://diveintohtml5.info/index.html)
 - [The Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 - [HTML & CSS Is Hard](https://internetingishard.com/html-and-css/)
+- [Functional-Light JavaScript] (https://github.com/getify/Functional-Light-JS)
 
 ## Newsletters
 
