@@ -55,6 +55,7 @@ List of useful resources for frontend developers
 - [JAMstack Radio](http://www.heavybit.com/library/podcasts/jamstack-radio/) ([RSS](http://www.heavybit.com/category/library/podcasts/jamstack-radio/feed/), [iTunes](https://itunes.apple.com/us/podcast/jamstack-radio/id1148797643))
 - [Hacking UI](http://hackingui.com/podcast/) ([RSS](https://simplecast.com/podcasts/1625/rss), [iTunes](https://itunes.apple.com/il/podcast/the-hacking-ui-podcast/id1078107474))
 - [HashBang](http://hashbangshow.okgrow.com/) ([RSS](https://rss.simplecast.com/podcasts/2601/rss), [iTunes](https://itunes.apple.com/us/podcast/hashbang/id1199939802))
+- [Syntax](https://syntax.fm/) ([RSS](https://feed.syntax.fm/rss), [iTunes](https://itunes.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678))
 
 ## Local Podcasts
 
