@@ -54,6 +54,7 @@ List of useful resources for frontend developers
 - [React30](https://react30.com/) ([RSS](https://react30.com/index.xml), [iTunes](https://itunes.apple.com/us/podcast/react30/id1121818347))
 - [JAMstack Radio](http://www.heavybit.com/library/podcasts/jamstack-radio/) ([RSS](http://www.heavybit.com/category/library/podcasts/jamstack-radio/feed/), [iTunes](https://itunes.apple.com/us/podcast/jamstack-radio/id1148797643))
 - [Hacking UI](http://hackingui.com/podcast/) ([RSS](https://simplecast.com/podcasts/1625/rss), [iTunes](https://itunes.apple.com/il/podcast/the-hacking-ui-podcast/id1078107474))
+- [HashBang](http://hashbangshow.okgrow.com/) ([RSS](https://rss.simplecast.com/podcasts/2601/rss), [iTunes](https://itunes.apple.com/us/podcast/hashbang/id1199939802))
 
 ## Local Podcasts
 
