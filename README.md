@@ -83,6 +83,7 @@ List of useful resources for frontend developers
 - [VueConf 2017](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw/videos) (June 21 - 23, 2017)
 - [JS Poland 2017](https://www.youtube.com/channel/UCbCvFj_QGyth4S_P7P0zBKg/videos) (June 19, 2017)
 - [AmsterdamJS 2017](https://www.youtube.com/playlist?list=PLfIM4SvaiIyzaLhvwGEa4QzPb9oTD0Ioc) (June 8, 2017)
+- [Web Rebels 2017](https://www.youtube.com/channel/UCM9cTs_C0PmTlHXTNrqTpnw/videos) (June 1 - 2, 2017)
 - [Ng-Cruise 2017](https://www.youtube.com/playlist?list=PL-G5r6j4GptEfE2lQB3d0m3gswh9JETq1) (May 29 - June 2, 2017)
 - [Frontend United 2017](https://www.youtube.com/playlist?list=PL7xqy2B8uXNIgeb7MslzTOoqRy2BRiKmW) (May 26 - 27, 2017)
 - [Front-Trends 2017](https://www.youtube.com/playlist?list=PLBevk0eXLOGdZE8N8mQBvrD3Sggcd-b4S) (May 24 - 26, 2017)
