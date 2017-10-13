@@ -80,6 +80,7 @@ List of useful resources for frontend developers
 - [The Standard](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
 
 ## Conferences
+- [AngularMix 2017](https://www.youtube.com/playlist?list=PLgRm9JfK2F3qeHLHtrIVqNef0LT04UD05) (October 10 - 12, 2017)
 - [ReactNext 2017](https://www.youtube.com/channel/UC3BT8hh3yTTYxbLQy_wbk2w/videos) (September 10, 2017)
 - [Nordic.js 2017](https://www.youtube.com/playlist?list=PLGP3VO5jDf8xpaeBAhJOJaEjt1C7sE5Sf) (September 7 - 8, 2017)
 - [VueConf 2017](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw/videos) (June 21 - 23, 2017)
