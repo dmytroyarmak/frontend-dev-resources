@@ -84,6 +84,7 @@ List of useful resources for frontend developers
 - [AngularMix 2017](https://www.youtube.com/playlist?list=PLgRm9JfK2F3qeHLHtrIVqNef0LT04UD05) (October 10 - 12, 2017)
 - [ReactNext 2017](https://www.youtube.com/channel/UC3BT8hh3yTTYxbLQy_wbk2w/videos) (September 10, 2017)
 - [Nordic.js 2017](https://www.youtube.com/playlist?list=PLGP3VO5jDf8xpaeBAhJOJaEjt1C7sE5Sf) (September 7 - 8, 2017)
+- [ColdFront 2017](https://www.youtube.com/playlist?list=PLl0kzWeYVmgsShWwV0jobX_K-01uMT49o) (September 5 - 6, 2017)
 - [NEJS CONF 2017](https://www.youtube.com/playlist?list=PLzcPHbGhqFeQAcdDNaaCLYeahx_223tzR) (July 21, 2017)
 - [VueConf 2017](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw/videos) (June 21 - 23, 2017)
 - [JS Poland 2017](https://www.youtube.com/channel/UCbCvFj_QGyth4S_P7P0zBKg/videos) (June 19, 2017)
