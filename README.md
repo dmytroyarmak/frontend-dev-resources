@@ -97,6 +97,7 @@ List of useful resources for frontend developers
 - [Frontend United 2017](https://www.youtube.com/playlist?list=PL7xqy2B8uXNIgeb7MslzTOoqRy2BRiKmW) (May 26 - 27, 2017)
 - [Front-Trends 2017](https://www.youtube.com/playlist?list=PLBevk0eXLOGdZE8N8mQBvrD3Sggcd-b4S) (May 24 - 26, 2017)
 - [ReactEurope 2017](https://www.youtube.com/playlist?list=PLCC436JpVnK3ruJeDWd-xWIMb0l47VcxD) (May 18 - 19, 2017)
+- [jsDay 2017](https://vimeo.com/album/4582764) (May 10 - 11, 2017)
 - [JSConf EU 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_) (May 6 - 7, 2017)
 - [CSSconf EU 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshF0XmpjKBJ3-0kvr3b5ZpJR) (May 5, 2017)
 - [Jazoon TechDays Spring 2017](https://www.youtube.com/playlist?list=PLYX1a6mVbBmwxlbypvj-vSteF_KNuU0S_) (April 28, 2017)
