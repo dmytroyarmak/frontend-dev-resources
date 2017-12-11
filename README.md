@@ -85,6 +85,7 @@ List of useful resources for frontend developers
 - [ReactiveConf 2017](https://www.youtube.com/playlist?list=PLa2ZZ09WYepMB-I7AiDjDYR8TjO8uoNjs) (October 25 - 27, 2017)
 - [RuhrJS 2017](https://www.youtube.com/playlist?list=PLZQv2lZnFSKd2LMYCckOMp3YGmKPrm3Xi) (October 14 - 15, 2017)
 - [AngularMix 2017](https://www.youtube.com/playlist?list=PLgRm9JfK2F3qeHLHtrIVqNef0LT04UD05) (October 10 - 12, 2017)
+- [Fronteers Conference 2017](https://vimeo.com/channels/fronteers17/videos) (October 5 - 6, 2017)
 - [ReactNext 2017](https://www.youtube.com/channel/UC3BT8hh3yTTYxbLQy_wbk2w/videos) (September 10, 2017)
 - [Nordic.js 2017](https://www.youtube.com/playlist?list=PLGP3VO5jDf8xpaeBAhJOJaEjt1C7sE5Sf) (September 7 - 8, 2017)
 - [ColdFront 2017](https://www.youtube.com/playlist?list=PLl0kzWeYVmgsShWwV0jobX_K-01uMT49o) (September 5 - 6, 2017)
