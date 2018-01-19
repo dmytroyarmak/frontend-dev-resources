@@ -56,6 +56,7 @@ List of useful resources for frontend developers
 - [Hacking UI](http://hackingui.com/podcast/) ([RSS](https://simplecast.com/podcasts/1625/rss), [iTunes](https://itunes.apple.com/il/podcast/the-hacking-ui-podcast/id1078107474))
 - [HashBang](http://hashbangshow.okgrow.com/) ([RSS](https://rss.simplecast.com/podcasts/2601/rss), [iTunes](https://itunes.apple.com/us/podcast/hashbang/id1199939802))
 - [Syntax](https://syntax.fm/) ([RSS](https://feed.syntax.fm/rss), [iTunes](https://itunes.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678))
+- [egghead.io Instructor Chats](https://egghead.simplecast.fm/episodes) ([RSS](https://rss.simplecast.com/podcasts/3762/rss), [iTunes](https://itunes.apple.com/us/podcast/egghead-io-instructor-chats/id1308497805))
 
 ## Local Podcasts
 
