@@ -87,6 +87,7 @@ List of useful resources for frontend developers
 - [JSConf.Asia 2018](https://www.youtube.com/playlist?list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl) (January 25 - 27, 2018)
 - [NG-BE 2017](https://www.youtube.com/playlist?list=PL9pV_RwZceNgDpKJK4BvzuZuqmMZBssQb) (December 8, 2017)
 - [dotJS 2017](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG4gs_BDyI7q009IVDUMQRXB) (Devember 1, 2017)
+- [NG-Poland 2017](https://www.youtube.com/playlist?list=PLYJFRoKhU5SM4EwP7CdVfQeSrNFDM5ygl) (November 21, 2017)
 - [JS Kongress 2017](https://www.youtube.com/playlist?list=PL8ajgHZ7PoCt3l5RXoyqVu_r7gYJU0dMx) (November 13 - 14, 2017)
 - [AngularConnect 2017](https://www.youtube.com/playlist?list=PLAw7NFdKKYpGUpg7JJ8-PJNMdlrOnmZtN) (November 7 - 8, 2017)
 - [JSConf Budapest 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD) (October 26 - 27, 2017)
