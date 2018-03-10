@@ -82,6 +82,7 @@ List of useful resources for frontend developers
 - [The Standard](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
 
 ## Conferences
+- [ngVikings 2018](https://www.youtube.com/playlist?list=PLVI0Ut22uwY4UC1v5fUvi2RIU4R4jPkba) (March 1 - 2, 2018)
 - [ng-europe 2018](https://www.youtube.com/playlist?list=PLhc_bKwZngxVQZtyPzGY9dRJOnGP1xVVX) (February 2, 2018)
 - [ngAtlanta 2018](https://www.youtube.com/playlist?list=PLFMi8sXIcHF_6p2zwttrXmDBU6ZDhPA0F) (February 1 - 2, 2018)
 - [JSConf.Asia 2018](https://www.youtube.com/playlist?list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl) (January 25 - 27, 2018)
