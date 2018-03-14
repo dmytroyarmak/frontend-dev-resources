@@ -93,6 +93,7 @@ List of useful resources for frontend developers
 - [JS Kongress 2017](https://www.youtube.com/playlist?list=PL8ajgHZ7PoCt3l5RXoyqVu_r7gYJU0dMx) (November 13 - 14, 2017)
 - [AngularConnect 2017](https://www.youtube.com/playlist?list=PLAw7NFdKKYpGUpg7JJ8-PJNMdlrOnmZtN) (November 7 - 8, 2017)
 - [JSConf Budapest 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD) (October 26 - 27, 2017)
+- [CSSConf Budapest 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshEif54oBYCQhN8KE-vTWPTi) (October 25, 2017)
 - [ReactiveConf 2017](https://www.youtube.com/playlist?list=PLa2ZZ09WYepMB-I7AiDjDYR8TjO8uoNjs) (October 25 - 27, 2017)
 - [RuhrJS 2017](https://www.youtube.com/playlist?list=PLZQv2lZnFSKd2LMYCckOMp3YGmKPrm3Xi) (October 14 - 15, 2017)
 - [AngularMix 2017](https://www.youtube.com/playlist?list=PLgRm9JfK2F3qeHLHtrIVqNef0LT04UD05) (October 10 - 12, 2017)
