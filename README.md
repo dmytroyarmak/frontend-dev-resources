@@ -58,6 +58,7 @@ List of useful resources for frontend developers
 - [Syntax](https://syntax.fm/) ([RSS](https://feed.syntax.fm/rss), [iTunes](https://itunes.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678))
 - [egghead.io Instructor Chats](https://egghead.simplecast.fm/episodes) ([RSS](https://rss.simplecast.com/podcasts/3762/rss), [iTunes](https://itunes.apple.com/us/podcast/egghead-io-instructor-chats/id1308497805))
 - [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/) ([RSS](http://freecodecamp.libsyn.com/rss), [iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749))
+- [The React Podcast](https://changelog.com/reactpodcast) ([RSS](https://changelog.com/reactpodcast/feed), [iTunes](https://itunes.apple.com/us/podcast/the-react-podcast/id1341969432))
 
 ## Local Podcasts
 
