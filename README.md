@@ -59,6 +59,8 @@ List of useful resources for frontend developers
 - [egghead.io Instructor Chats](https://egghead.simplecast.fm/episodes) ([RSS](https://rss.simplecast.com/podcasts/3762/rss), [iTunes](https://itunes.apple.com/us/podcast/egghead-io-instructor-chats/id1308497805))
 - [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/) ([RSS](http://freecodecamp.libsyn.com/rss), [iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749))
 - [The React Podcast](https://changelog.com/reactpodcast) ([RSS](https://changelog.com/reactpodcast/feed), [iTunes](https://itunes.apple.com/us/podcast/the-react-podcast/id1341969432))
+- [React Round Up](https://devchat.tv/react-round-up) ([RSS](http://feeds.feedwrench.com/react-round-up.rss), [iTunes](https://itunes.apple.com/us/podcast/react-round-up/id1364741140))
+- [Views on Vue](https://devchat.tv/views-on-vue) ([RSS](http://feeds.feedwrench.com/views-on-vue.rss), [iTunes](https://itunes.apple.com/us/podcast/views-on-vue/id1364741105))
 
 ## Local Podcasts
 
