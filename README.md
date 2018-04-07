@@ -361,6 +361,11 @@ List of useful resources for frontend developers
 
 ## Educational games
 - [CSS Diner](http://flukeout.github.io/)
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [CodinGame](https://www.codingame.com/start)
+- [Code Combat](https://codecombat.com/)
+- [Code Wars](https://www.codewars.com/)
 
 ## Other Resources
 - [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
