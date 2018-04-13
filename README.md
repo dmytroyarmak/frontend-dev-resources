@@ -86,6 +86,9 @@ List of useful resources for frontend developers
 
 ## Conferences
 - [Render Conf 2018](https://www.youtube.com/playlist?list=PLBzScQzZ83I9c8OjCkL2rBi_-23grnDTF) (March 23, 2018)
+- [Decompress AU 2018](https://www.youtube.com/playlist?list=PLZriQCloF6GBTE7c8CHNbbudgZo2J2kE8) (March 23, 2018)
+- [JSConf AU 2018](https://www.youtube.com/playlist?list=PLZriQCloF6GDuXF8RRPd1mIl9W2QXF-sQ) (March 21 - 22, 2018)
+- [CSSConf AU 2018](https://www.youtube.com/playlist?list=PLZriQCloF6GApxBmkAcCp08VoI6mDFe2G) (March 20, 2018)
 - [ngVikings 2018](https://www.youtube.com/playlist?list=PLVI0Ut22uwY4UC1v5fUvi2RIU4R4jPkba) (March 1 - 2, 2018)
 - [ng-europe 2018](https://www.youtube.com/playlist?list=PLhc_bKwZngxVQZtyPzGY9dRJOnGP1xVVX) (February 2, 2018)
 - [ngAtlanta 2018](https://www.youtube.com/playlist?list=PLFMi8sXIcHF_6p2zwttrXmDBU6ZDhPA0F) (February 1 - 2, 2018)
