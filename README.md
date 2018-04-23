@@ -308,6 +308,7 @@ List of useful resources for frontend developers
 - [The Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 - [HTML & CSS Is Hard](https://internetingishard.com/html-and-css/)
 - [Functional-Light JavaScript] (https://github.com/getify/Functional-Light-JS)
+- [React in patterns](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details)
 
 ## Newsletters
 
