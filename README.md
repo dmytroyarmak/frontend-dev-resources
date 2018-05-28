@@ -85,6 +85,7 @@ List of useful resources for frontend developers
 - [The Standard](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
 
 ## Conferences
+- [React Finland 2018](https://www.youtube.com/playlist?list=PL-a9lBflNu2rXmXqorswbrjNkCKypXOrE) (April 24 - 26, 2018)
 - [ng-conf 2018](https://www.youtube.com/user/ngconfvideos/videos) (April 18 - 20, 2018)
 - [React Amsterdam 2018](https://www.youtube.com/playlist?list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm) (April 13, 2018)
 - [Render Conf 2018](https://www.youtube.com/playlist?list=PLBzScQzZ83I9c8OjCkL2rBi_-23grnDTF) (March 23, 2018)
