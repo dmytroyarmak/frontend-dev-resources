@@ -86,6 +86,7 @@ List of useful resources for frontend developers
 
 ## Conferences
 - [Web Rebels 2018](https://www.youtube.com/playlist?list=PLlbIku9ii23oRlAwOK2IeKlQL-ZW-Ggks) (June 4 - 5, 2018)
+- [Frontend United 2018](https://www.youtube.com/playlist?list=PL7xqy2B8uXNI-uKDix02rQRIgy9Y_lM6-) (June 1 - 2, 2018)
 - [React Finland 2018](https://www.youtube.com/playlist?list=PL-a9lBflNu2rXmXqorswbrjNkCKypXOrE) (April 24 - 26, 2018)
 - [ng-conf 2018](https://www.youtube.com/user/ngconfvideos/videos) (April 18 - 20, 2018)
 - [React Amsterdam 2018](https://www.youtube.com/playlist?list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm) (April 13, 2018)
