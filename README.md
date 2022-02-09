@@ -382,6 +382,7 @@ List of useful resources for frontend developers
 - [JavaScript Charts: The Definitive Guide](http://www.fusioncharts.com/javascript-charts-guide/)
 - [What happens when you type google.com into your browser's address box and press enter](https://github.com/alex/what-happens-when)
 - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
 
 ## Contribute
 If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests!
