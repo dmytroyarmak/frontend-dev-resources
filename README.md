@@ -362,6 +362,7 @@ List of useful resources for frontend developers
 - [Codecademy](https://www.codecademy.com/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Code School](https://www.codeschool.com/)
+- [TutorialSearch](https://tutorialsearch.io/browse/web-development/front-end-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Udacity](https://www.udacity.com/courses/web-development)
 - [freeCodeCamp](https://www.freecodecamp.com/)
 - [Udemy](https://www.udemy.com/)
